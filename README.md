@@ -1,4 +1,4 @@
-# 📚 Research Paper Explainer (Advanced RAG System)
+# 📚 Research Assistant (Advanced RAG System)
 
 ## 🚀 Overview
 
